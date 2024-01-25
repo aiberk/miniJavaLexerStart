@@ -16,8 +16,6 @@ compile cal with
 javac cal.java
 ```
 
-edit cal.jj
-
 ## Running project
 
 ```bash
@@ -38,3 +36,7 @@ NUMBER: 90
 ADD_OP: +
 NUMBER: 4
 RPAREN: )`
+
+## Development
+
+edit cal.jj by adding more tokens and rules
