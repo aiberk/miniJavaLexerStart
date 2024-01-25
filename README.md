@@ -38,4 +38,3 @@ NUMBER: 90
 ADD_OP: +
 NUMBER: 4
 RPAREN: )`
-# miniJavaLexerStart
